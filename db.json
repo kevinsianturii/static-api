@@ -1,0 +1,43 @@
+[
+    {
+      "nama": "Merkurius",
+      "diameter": "4879 km",
+      "imageId": "merkurius"
+    },
+    {
+      "nama": "Venus",
+      "diameter": "12104 km",
+      "imageId": "venus"
+    },
+    {
+      "nama": "Bumi",
+      "diameter": "12742 km",
+      "imageId": "bumi"
+    },
+    {
+      "nama": "Mars",
+      "diameter": "6779 km",
+      "imageId": "mars"
+    },
+    {
+      "nama": "Jupiter",
+      "diameter": "139822 km",
+      "imageId": "jupiter"
+    },
+    {
+      "nama": "Saturnus",
+      "diameter": "116464 km",
+      "imageId": "saturnus"
+    },
+    {
+      "nama": "Uranus",
+      "diameter": "50724 km",
+      "imageId": "uranus"
+    },
+    {
+      "nama": "Neptunus",
+      "diameter": "49244 km",
+      "imageId": "neptunus"
+    }
+  ]
+  
